@@ -3,7 +3,7 @@ I made this project based on the https://www.udemy.com/course/the-complete-web-d
 
 //This note for me;
 
-git reset --mixed origin/main
-git add .
-git commit -m "This is a new commit for what I originally planned to be amended"
-git push origin main
+git reset --mixed origin/main****
+git add .*******
+git commit -m "This is a new commit for what I originally planned to be amended"******
+git push origin main********
